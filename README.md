@@ -1,19 +1,20 @@
 <p align="left">
-  Frontend / Full-Stack Developer · React / Next.js / TypeScript · Shopify · Node.js
+  <strong>Frontend / Full-Stack Developer</strong> · React · Next.js · TypeScript · Shopify · Node.js
 </p>
 
 <p align="left">
-  I build production web apps with a focus on clean UI, performance, and maintainable architecture.
+  I build production-ready web applications with a focus on clean UI, performance,
+  and maintainable architecture.
   <br/>
   I like when things are fast ⚡, predictable ✅, and easy to support 🧩
 </p>
 
-<p>
-  <a href="https://linkedin.com/in/amin-redfield-98a10b365" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2" />
+<p align="left">
+  <a href="https://linkedin.com/in/amin-redfield-98a10b365">
+    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
-  <a href="https://t.me/cntz_001" target="_blank">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4" />
+  <a href="https://t.me/cntz_001">
+    <img alt="Telegram" src="https://custom-icon-badges.demolab.com/badge/Telegram-26A5E4?logo=telegram&logoColor=fff" />
   </a>
 </p>
 
@@ -23,17 +24,17 @@
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,ts,js,tailwind,vite,webpack&perline=12" />
+  <img src="https://skillicons.dev/icons?i=react,next,ts,js,tailwind,vue,nuxt&perline=10" />
 </p>
 
 ### Backend / APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,prisma&perline=12" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,prisma&perline=10" />
 </p>
 
 ### DevOps / Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,githubactions&perline=12" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,githubactions&perline=10" />
 </p>
 
 ### E-commerce
@@ -45,22 +46,34 @@
 
 ## What I do
 
-- Production UI (React / Next.js): routing, state/data flows, i18n, a11y  
-- Integrations: REST / GraphQL, auth, analytics (GA4)  
-- Performance: Lighthouse / Core Web Vitals, profiling, code-splitting  
-- E-commerce: Shopify themes (OS 2.0), sections/blocks, headless integrations  
-- Sometimes full-stack: Node.js services + PostgreSQL/Prisma, queues, real-time
+- Build SPA / SSR / SSG applications with **React & Next.js**
+- Implement clean, scalable UI based on Figma designs
+- Integrate **REST & GraphQL APIs**, authentication, analytics (GA4)
+- Develop e-commerce solutions on **Shopify** (themes, sections, headless)
+- Create admin dashboards and internal tools
+- Optimize performance (Lighthouse, Core Web Vitals)
+- Occasionally work full-stack with **Node.js + PostgreSQL**
 
 ---
 
-## Highlights
+## Experience highlights
 
-- Commercial projects since **2022**
-- E-commerce + large catalogs, dashboards, internal tools
-- Prefer simple solutions over “clever” ones
-- Communicate clearly, no drama, stable delivery
+- Commercial experience since **2022**
+- E-commerce, marketplaces, large product catalogs
+- Internal dashboards and B2B services
+- Freelance and product team experience (remote & on-site)
+
+---
+
+## How I work
+
+- Clear communication, no overengineering
+- Focus on long-term maintainability
+- Prefer simple, stable solutions over clever hacks
+- Comfortable working independently or within a team
 
 ---
 
 ## Pinned projects
-If you want a quick overview, check the pinned repositories below 👇
+
+Check pinned repositories below for real-world examples 👇
