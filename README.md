@@ -74,6 +74,5 @@
 - Prefer simple, stable solutions over clever hacks
 - Comfortable working independently or within a team
 
----
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e303e&height=150&section=footer"/>
 
