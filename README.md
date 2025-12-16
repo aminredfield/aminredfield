@@ -34,7 +34,7 @@
 
 ### DevOps / Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,githubactions,bitbucket&perline=10" />
+  <img src="https://skillicons.dev/icons?i=docker,firebase,nginx,git,githubactions,bitbucket&perline=10" />
 </p>
 
 ### E-commerce
