@@ -24,23 +24,25 @@
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,ts,js,tailwind,vue,nuxt&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,next,ts,js,tailwind,vue,nuxt,vite,webpack,redux&perline=10" />
 </p>
 
 ### Backend / APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,graphql&perline=10" />
 </p>
 
 ### DevOps / Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,githubactions&perline=10" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,githubactions,bitbucket&perline=10" />
 </p>
 
 ### E-commerce
 <p>
+  <img src="https://skillicons.dev/icons?i=wordpress&perline=10" />
   <img alt="Shopify" src="https://cdn.simpleicons.org/shopify/7AB55C" height="44" />
 </p>
+
 
 ---
 
@@ -76,12 +78,10 @@
 
 ## Pinned projects
 
-Pinned repositories below are mostly **test assignments and small demo projects**
-created during hiring processes.
+Pinned repositories contain **test tasks and demo implementations**.
 
-They were built to demonstrate **functional solutions and problem-solving** rather
-than polished UI or production-level design.
-Some parts (like layout or visual details) were intentionally kept simple.
+The focus was on functionality and architecture.
+UI and styling were not the primary goal.
 
-Most real commercial projects are **private** due to NDA and client restrictions.
+Commercial projects are private.
 
