@@ -1,5 +1,5 @@
 <p align="left">
-  <strong>Frontend / Full-Stack Developer</strong> · React · Next.js · TypeScript · Shopify · Node.js
+  <strong>Frontend / Full-Stack Developer</strong> · React/Next.js · TypeScript · Shopify
 </p>
 
 <p align="left">
