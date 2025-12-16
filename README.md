@@ -76,4 +76,12 @@
 
 ## Pinned projects
 
-Check pinned repositories below for real-world examples 👇
+Pinned repositories below are mostly **test assignments and small demo projects**
+created during hiring processes.
+
+They were built to demonstrate **functional solutions and problem-solving** rather
+than polished UI or production-level design.
+Some parts (like layout or visual details) were intentionally kept simple.
+
+Most real commercial projects are **private** due to NDA and client restrictions.
+
