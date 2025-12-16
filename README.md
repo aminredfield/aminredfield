@@ -1,5 +1,3 @@
-<h1 align="left">Amin Redfield</h1>
-
 <p align="left">
   Frontend / Full-Stack Developer · React / Next.js / TypeScript · Shopify · Node.js
 </p>
