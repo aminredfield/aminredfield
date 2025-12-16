@@ -29,7 +29,7 @@
 
 ### Backend / APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,prisma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres&perline=10" />
 </p>
 
 ### DevOps / Tools
