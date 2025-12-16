@@ -76,12 +76,4 @@
 
 ---
 
-## Pinned projects
-
-Pinned repositories contain **test tasks and demo implementations**.
-
-The focus was on functionality and architecture.
-UI and styling were not the primary goal.
-
-Commercial projects are private.
 
