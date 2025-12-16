@@ -8,12 +8,12 @@
   I like when things are fast ⚡, predictable ✅, and easy to support 🧩
 </p>
 
-<p align="left">
+<p>
   <a href="https://linkedin.com/in/amin-redfield" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/cntz_001" target="_blank">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram" />
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
@@ -22,23 +22,23 @@
 ## Tech stack
 
 ### Frontend
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=react,next,ts,js,tailwind,vite,webpack&perline=12" />
 </p>
 
 ### Backend / APIs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,redis,prisma&perline=12" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,prisma&perline=12" />
 </p>
 
 ### DevOps / Tools
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=docker,nginx,git,githubactions&perline=12" />
 </p>
 
 ### E-commerce
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=shopify&perline=12" />
+<p>
+  <img alt="Shopify" src="https://cdn.simpleicons.org/shopify/7AB55C" height="44" />
 </p>
 
 ---
