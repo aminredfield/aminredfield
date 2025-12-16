@@ -10,10 +10,10 @@
 
 <p>
   <a href="https://linkedin.com/in/amin-redfield-98a10b365" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2" />
   </a>
   <a href="https://t.me/cntz_001" target="_blank">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4" />
   </a>
 </p>
 
